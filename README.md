@@ -1,3 +1,9 @@
-# topogram.github.io
+# Topogram News
 
-Website for the Topogram project
+News and Updates for the Topogram project
+
+To launch locally
+
+  git clone https://github.com/topogram/news.git
+  cd news
+  jekyll s
